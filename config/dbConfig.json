@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vidhu",
+    "password": null,
+    "database": "drandom",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "vidhu",
+    "password": null,
+    "database": "drandom",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "vidhu",
+    "password": null,
+    "database": "drandom",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
